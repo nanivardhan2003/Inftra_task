@@ -1,0 +1,14 @@
+services:
+  task:
+    build:
+      context: .
+      dockerfile: Dockerfile.task
+    volumes:
+      - .:/app
+
+  test:
+    build:
+      context: .
+      dockerfile: Dockerfile.test
+    volumes:
+      - .:/app
