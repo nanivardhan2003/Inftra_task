@@ -1,0 +1,67 @@
+Total Revenue by Month:
+      Month  Total Revenue
+0   2023-07       12497.80
+1   2023-08      133554.72
+2   2023-09      127205.46
+3   2023-10      139239.93
+4   2023-11      127710.91
+5   2023-12      126617.25
+6   2024-01      138443.47
+7   2024-02      115662.11
+8   2024-03      129196.69
+9   2024-04      131258.67
+10  2024-05      145215.86
+11  2024-06      139805.22
+12  2024-07      122014.96
+
+Total Revenue by Product:
+                     Product Name  Total Revenue
+0               Artichoke - Fresh       79381.77
+1           Beef - Tongue, Cooked       78190.66
+2              Calvados - Boulard       80184.87
+3       Carbonated Water - Orange       85674.36
+4          Cheese - Pied De Vents       84038.52
+5       Clams - Littleneck, Whole       73812.73
+6         Cookies Almond Hazelnut       74774.65
+7              Cucumber - English       74727.60
+8             Lobster - Tail 6 Oz       81621.75
+9                    Onion Powder       85057.59
+10            Ostrich - Prime Cut       75094.84
+11                  Pie Shell - 5       81563.67
+12   Pork Loin Bine - In Frenched       80919.78
+13            Pork Salted Bellies       81742.29
+14              Roe - Flying Fish       74127.79
+15             Sea Bass - Fillets       80597.45
+16                  Sole - Fillet       80793.86
+17     Soup - Campbells Chili Veg       75683.08
+18       Soup - Knorr, Ministrone       80093.82
+19  Venison - Denver Leg Boneless       80341.97
+
+Total Revenue by Customer:
+     Customer ID  Total Revenue
+0     Customer_1       14101.12
+1    Customer_10       14397.11
+2   Customer_100       17870.31
+3    Customer_11       18641.80
+4    Customer_12       16282.70
+..           ...            ...
+95   Customer_95       18051.48
+96   Customer_96       12642.25
+97   Customer_97       14025.87
+98   Customer_98       17098.79
+99   Customer_99       17658.34
+
+[100 rows x 2 columns]
+
+Top 10 Customers by Revenue:
+    Customer ID  Total Revenue
+72  Customer_74       22123.45
+12   Customer_2       21901.41
+94  Customer_94       21175.66
+71  Customer_73       20936.39
+38  Customer_43       19537.64
+62  Customer_65       19343.06
+44  Customer_49       19254.98
+81  Customer_82       18842.06
+70  Customer_72       18724.40
+82  Customer_83       18719.09
